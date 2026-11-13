@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICDM Tutorial Team//Context-Aware Forecasting//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:icdm2026-context-aware-forecasting-20261115
+DTSTAMP:20261113T000000Z
+DTSTART:20261115T021000Z
+DTEND:20261115T041000Z
+SUMMARY:ICDM 2026 教程：基于大语言模型的上下文感知时间序
+ 列预测
+LOCATION:Grand Ballroom 1\, Shenyang\, China
+DESCRIPTION:从模式识别到认知推理。ICDM 2026 产业教程 6。北
+ 京时间 2026 年 11 月 15 日 10:10–12:10。
+URL:https://icdm2026.neu.edu.cn/Tutorials/list.htm
+END:VEVENT
+END:VCALENDAR

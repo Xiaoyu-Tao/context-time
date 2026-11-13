@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICDM Tutorial Team//Context-Aware Forecasting//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:icdm2026-context-aware-forecasting-20261115
+DTSTAMP:20261113T000000Z
+DTSTART:20261115T021000Z
+DTEND:20261115T041000Z
+SUMMARY:ICDM 2026 Tutorial: Context-Aware Time Series Forecasting with LLMs
+LOCATION:Grand Ballroom 1\, Shenyang\, China
+DESCRIPTION:From Pattern Recognition to Cognitive Reasoning. Industrial Tut
+ orial 6 at IEEE ICDM 2026.
+URL:https://icdm2026.neu.edu.cn/Tutorials/list.htm
+END:VEVENT
+END:VCALENDAR
